@@ -1,0 +1,33 @@
+# JetBrains / IDE
+.idea/
+
+# JetBrains Academy / Hyperskill course metadata
+course-info.yaml
+course-remote-info.yaml
+Hangman (Python)/lesson-info.yaml
+
+# Course stage directories
+Hangman (Python)/Error!/
+Hangman (Python)/Hello, Hangman/
+Hangman (Python)/Help is on the way/
+Hangman (Python)/Keep trying/
+Hangman (Python)/Let’s play a game/
+Hangman (Python)/Make your choice/
+Hangman (Python)/Menu, please/
+Hangman (Python)/The value of life/
+
+# Task-specific files and tests
+requirements.txt
+Hangman (Python)/task/test/
+Hangman (Python)/task/tests.py
+Hangman (Python)/task/.gitignore
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+env/
